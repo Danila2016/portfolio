@@ -6,6 +6,8 @@
 
 ![Volleyball](https://github.com/Danila2016/portfolio/blob/master/images/s1_60_70_0223.jpg?raw=true)
 
+Точность метода: 45% precision / 45% recall
+
 ## Разворачивание сферы из полусферы
 
 [![Sphere unfolding](https://github.com/Danila2016/portfolio/blob/master/images/sphere.png?raw=true)](https://github.com/Danila2016/portfolio/blob/master/videos/sphere.mp4?raw=true)
@@ -16,8 +18,11 @@
 
 Найти минимальное число колодцев для отвода воды из каждой точки поля. Вода стекает по невозрастающему маршруту из точек с большей высотой в точки с меньшей высотой. Диагональные стоки не разрешаются. Будем считать, что вода не утекает за границы.
 
-Пример: [[Карта высот]](https://github.com/Danila2016/portfolio/blob/master/images/wells.jpg?raw=true)
-[[Результат работы метода]](https://github.com/Danila2016/portfolio/blob/master/images/wells_solution.jpg?raw=true)
+Пример: карта высот и результат работы метода
+
+![Wells](https://github.com/Danila2016/portfolio/blob/master/images/wells.png?raw=true)
+
+![Wells result](https://github.com/Danila2016/portfolio/blob/master/images/wells_solution.png?raw=true)
 
 [Эффективное решение без рекурсии на языке C](https://github.com/Danila2016/portfolio/blob/master/sources/p4.c)
 
@@ -46,3 +51,5 @@
 Также увлекаюсь спортивным программированием. Заработал бейдж “Специалист” на сайте [codeforces.com](https://codeforces.com)
 
 [[Ссылка на профиль]](https://codeforces.com/profile/DSP-friendly)
+
+&copy; Potapov Danila 2018-2020
