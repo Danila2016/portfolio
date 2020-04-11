@@ -31,10 +31,6 @@
 
 [Программа для вычисления углов методом небольших отклонений](https://github.com/Danila2016/portfolio/blob/master/sources/align_release.py)
 
-## Сайт логических задачек на английском языке
-
-[Nuts for your brain](https://www.facebook.com/NutsForYourBrain)
-
 ## Открытка с лилией
 
 ![Lily](https://github.com/Danila2016/portfolio/blob/master/images/lily1.png?raw=true)
