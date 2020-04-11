@@ -6,7 +6,7 @@
 
 ![Volleyball](https://github.com/Danila2016/portfolio/blob/master/images/s1_60_70_0223.jpg?raw=true)
 
-Точность метода: 45% precision / 45% recall
+Точность метода: 65% precision / 70% recall
 
 ## Разворачивание сферы из полусферы
 
