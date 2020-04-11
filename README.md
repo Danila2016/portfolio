@@ -16,8 +16,8 @@
 
 Найти минимальное число колодцев для отвода воды из каждой точки поля. Вода стекает по невозрастающему маршруту из точек с большей высотой в точки с меньшей высотой. Диагональные стоки не разрешаются. Будем считать, что вода не утекает за границы.
 
-Пример: [Карта высот](https://github.com/Danila2016/portfolio/blob/master/images/wells.jpg?raw=true)
-[Результат работы метода](https://github.com/Danila2016/portfolio/blob/master/images/wells_solution.jpg?raw=true)
+Пример: [[Карта высот]](https://github.com/Danila2016/portfolio/blob/master/images/wells.jpg?raw=true)
+[[Результат работы метода]](https://github.com/Danila2016/portfolio/blob/master/images/wells_solution.jpg?raw=true)
 
 [Эффективное решение без рекурсии на языке C](https://github.com/Danila2016/portfolio/blob/master/sources/p4.c)
 
@@ -33,7 +33,7 @@
 
 ## Сайт логических задачек на английском языке
 
-[Nuts for your brain](www.facebook.com/NutsForYourBrain)
+[Nuts for your brain](https://www.facebook.com/NutsForYourBrain)
 
 ## Открытка с лилией
 
