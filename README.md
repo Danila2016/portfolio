@@ -10,13 +10,7 @@
 
 ## Разворачивание сферы из полусферы
 
-<video height="300" poster="https://github.com/Danila2016/portfolio/blob/master/images/sphere.png?raw=true" controls="">
- Your browser does not support the HTML5 video element. 
-<source type="video/ogg" src="https://github.com/Danila2016/portfolio/blob/master/videos/sphere.ogg?raw=true">
-<source type="video/mp4" src="https://github.com/Danila2016/portfolio/blob/master/videos/sphere.mp4?raw=true">
-</video>
-
-[![Sphere unfolding]()]()
+[![Sphere unfolding](https://github.com/Danila2016/portfolio/blob/master/images/sphere.png?raw=true)](https://github.com/Danila2016/portfolio/blob/master/videos/sphere.mp4?raw=true)
 
 Выполняется требование: грани при движении не пересекаются.
 
@@ -36,11 +30,7 @@
 
 Может ли куб просочиться через равный ему куб?
 
-<video height="300" poster="https://github.com/Danila2016/portfolio/blob/master/images/cube.png?raw=true" controls="">
- Your browser does not support the HTML5 video element. 
-<source type="video/ogg" src="https://github.com/Danila2016/portfolio/blob/master/videos/cube.ogg?raw=true">
-<source type="video/mp4" src="https://github.com/Danila2016/portfolio/blob/master/videos/cube_h264_mpeg4.mp4?raw=true">
-</video>
+[![Cube](https://github.com/Danila2016/portfolio/blob/master/images/cube.png?raw=true)](https://github.com/Danila2016/portfolio/blob/master/videos/cube_h264_mpeg4.mp4?raw=true)
 
 Найти углы поворота, при которых выполняется свойство: фигура, полученная вычитанием из объема куба объема параллелепипеда, имеет ровно одно отверстие. Основание параллелепипеда равно грани куба.
 
